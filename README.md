@@ -15,8 +15,6 @@ Collection of popular & old Horion-based cheat clients for versions **1.12 – 1
 
 ### Folder contents
 
-- **.zip** — the .dll files themselves  
-  File name almost always includes supported game version
 - **configs/** — ready HVH configs for roughly half of the clients  
   just drop them into the client's config folder
 
@@ -45,8 +43,6 @@ Collection of popular & old Horion-based cheat clients for versions **1.12 – 1
 
 ### Что лежит в папке
 
-- **.zip/** — сами .dll файлы  
-  Название файла почти всегда содержит поддерживаемую версию игры
 - **configs/** — готовые HVH-конфиги для половины клиентов  
   кидай в папку с настройками клиента и радуйся
 
