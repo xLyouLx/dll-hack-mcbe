@@ -15,7 +15,7 @@ Collection of popular & old Horion-based cheat clients for versions **1.12 – 1
 
 ### Folder contents
 
-- **clients/** — the .dll files themselves  
+- **.zip** — the .dll files themselves  
   File name almost always includes supported game version
 - **configs/** — ready HVH configs for roughly half of the clients  
   just drop them into the client's config folder
@@ -45,7 +45,7 @@ Collection of popular & old Horion-based cheat clients for versions **1.12 – 1
 
 ### Что лежит в папке
 
-- **clients/** — сами .dll файлы  
+- **.zip/** — сами .dll файлы  
   Название файла почти всегда содержит поддерживаемую версию игры
 - **configs/** — готовые HVH-конфиги для половины клиентов  
   кидай в папку с настройками клиента и радуйся
@@ -57,5 +57,3 @@ Collection of popular & old Horion-based cheat clients for versions **1.12 – 1
 - **Solstice** — если хочется красивого меню и уже хоть какого-то обхода  
 - **Dorion** — когда идёшь на серьёзный HVH и готов мириться с крашами  
 - **Zephyr** — троллинг + звуковые мемесы + нормальный пвп при правильной настройке
-
-Удачи, не сливай на публичных серверах с нормальным античитом.
